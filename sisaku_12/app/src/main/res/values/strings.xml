@@ -1,0 +1,14 @@
+<resources>
+    <string name="tx_push">今日</string>
+    <string name="tx_title">の気分飯</string>
+    <string name="bt_push">押す</string>
+    <string name="app_name">今日の気分飯</string>
+
+    <string name="bt_Heavy">がっつり</string>
+    <string name="bt_Light">あっさり</string>
+
+    <string name="bt_Search">検索</string>
+    <string name="Today_feeling">今の気分は?</string>
+
+
+</resources>
